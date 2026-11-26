@@ -1,16 +1,18 @@
-## Hi there 👋
+# Lebensversicherung Vergleich
 
-<!--
-**lebensversicherungvergleich/lebensversicherungvergleich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unabhängiger Vergleich von Lebensversicherungen: Risikolebensversicherung, Kosten, Leistungen und Steuern einfach erklärt.
 
-Here are some ideas to get you started:
+🌐 **Website:** https://lebensversicherungvergleich.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was wir bieten
+
+- **Risikolebensversicherung vergleichen:** Kriterien, Kosten und Anbieter im Überblick
+- **Kosten & Leistungen:** Was eine Risikolebensversicherung wirklich kostet – und was sie leistet
+- **Steuern einfach erklärt:** Wie Beiträge und Auszahlungen steuerlich behandelt werden
+
+## Weiterführende Links
+
+- [Risikolebensversicherung vergleichen: Kriterien & Kosten](https://lebensversicherungvergleich.com/risikolebensversicherung-vergleich-anbieter/)
+- [Lebensversicherung Vergleich](https://lebensversicherungvergleich.com/)
+
+📍 München, Deutschland
